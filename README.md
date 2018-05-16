@@ -1,7 +1,7 @@
 # ARTreasureHunt
 An Augmented Reality Treasure Hunt game Build using Unity and Vuforia
 
-Source code for Augmented Reality Treasure Hunt held at Kollam as part of Conjura, AKYS, Techfest of CE.
+Source code for **Augmented Reality Treasure Hunt** for **Aaroh18**, technical fest conducted at **College of Engineering Adoor** on *March 2 & 3, 2018*.
 
 Starter code and assets from https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt
 
@@ -9,7 +9,7 @@ File Structure is bit messy. Pull requests after cleanup are invited.
 
 # N.B.
 One of the scene requires phone with Gryscope sensor to work.
-Remove it if you want.
+Remove it if you want as certain phones lack that sensor.
 
 # Instructions 
 
@@ -25,4 +25,4 @@ Remove it if you want.
 1. Duplicate "clue#" and "scene for as many levels you like 
 1. Build apks
 
-Need help ? [WhatsApp](https://api.whatsapp.com/send?phone=919496863169&text=hi)
+Need help? Find me [here](https://abhijithvijayan.me)
