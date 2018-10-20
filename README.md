@@ -1,6 +1,8 @@
 # ARTreasureHunt
 An Augmented Reality Treasure Hunt game Build using Unity and Vuforia
 
+![splash screen](https://camo.githubusercontent.com/db7ebac319a7b9765bc1e22e37f866fd93d6237c/68747470733a2f2f692e696d6775722e636f6d2f36396144415a552e706e67)
+
 Source code for **Augmented Reality Treasure Hunt** for **Aaroh18**, technical fest conducted at **College of Engineering Adoor** on *March 2 & 3, 2018*.
 
 Starter code and assets from https://github.com/fi-content2-games-platform/FIcontent.Gaming.Application.TreasureHunt
@@ -25,4 +27,3 @@ Remove it if you want as certain phones lack that sensor.
 1. Duplicate "clue#" and "scene for as many levels you like 
 1. Build apks
 
-Need help? Find me [here](https://abhijithvijayan.me)
